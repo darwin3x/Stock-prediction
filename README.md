@@ -75,7 +75,3 @@ python main.py --help
 6. Plots the holdout actual Close, both predictions, and the LSTM absolute error.
 
 The chronological splits keep future observations out of each fold's training data. The final holdout remains separate from cross-validation and is used for the plot.
-
-## License
-
-Add a license file before distributing or reusing this project.
