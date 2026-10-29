@@ -28,7 +28,7 @@ A Python script that downloads historical stock data and trains a PyTorch LSTM t
 
 ```bash
 git clone https://github.com/darwin3x/Stock-prediction
-cd <stock-prediction>
+cd stock-prediction
 python -m pip install numpy pandas yfinance matplotlib torch scikit-learn
 ```
 
